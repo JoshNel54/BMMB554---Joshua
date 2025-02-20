@@ -1,6 +1,6 @@
---
-layout: default
+---
 title: "My website"
+layout: default
 ---
 
 
