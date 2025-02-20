@@ -1,3 +1,9 @@
+------
+layout: default
+title: "My website"
+
+
+
 # My great website
 
 My name is Joshua
